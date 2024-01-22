@@ -10,10 +10,10 @@ Possuo mais de 10 anos de experiência na condução de projetos de pesquisa com
 
 Sou Russa e escolhi o Brasil como minha morada há mais de 10 anos e construí a minha vida pessoal e profissional aqui. Tenho nacionalidade brasileira e permissão para o trabalho no país.
 
-### More Information
+<--- ### More Information --->
 
-A place to include any other types of information that you'd like to include about yourself.
+<--- A place to include any other types of information that you'd like to include about yourself. --->
 
-### Contact me
+### Entre em contato comigo: 
 
-[email@domain.com](mailto:ole.galkina@gmail.com)
+[ole.galkina@gmail.com](mailto:ole.galkina@gmail.com)
