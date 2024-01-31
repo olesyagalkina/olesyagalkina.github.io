@@ -9,6 +9,11 @@ O objetivo desse projeto é mostrar como funciona o algoritmo k-means. Inicialme
  
  <img src="/images/gaia_k_20.png" width=516 height=666>
 
+### Regressão Linear
+O objetivo desse projeto é construir um modelo de regressão linear simples a partir de um conjunto de dados. As bibliotécas e pacotes utilizados: Seaborn, Matplotlib, Pandas e Statsmodels. O projeto completo está [aqui](https://github.com/olesyagalkina/olesya/blob/main/Regressao%20linear%20simples-pt.ipynb).
+<img src="/images/sns_pairplot_matriz.png" width=533 height=533>
+<img src="/images/dispersão de resíduos.png" width=398 height=262>
+
  ### Tableau
  Visualização de dados usando Tableau
  <img src="/images/Impact of Holidays on Seoul Bike Rentals in 2018.png" width=999 height=799>
