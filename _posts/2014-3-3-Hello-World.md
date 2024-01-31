@@ -12,7 +12,7 @@ O objetivo desse projeto é mostrar como funciona o algoritmo k-means. Inicialme
  ### Tableau
  Visualização de dados usando Tableau
  <img src="/images/Impact of Holidays on Seoul Bike Rentals in 2018.png" width=999 height=799>
- <img src="/images/Seoul Average Bike Rentals per Hour on Weekdays in 2018.png" width=1213 height=585>
+ <img src="/images/Seoul Average Bike Rentals per Hour on Weekdays in 2018.png" width=999 height=482>
  
 <!---   ![_config.yml]({{ site.baseurl }}/images/config.png)   --->
 
