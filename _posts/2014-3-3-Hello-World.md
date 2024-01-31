@@ -14,8 +14,9 @@ O objetivo desse projeto é construir um modelo de regressão linear simples a p
 <img src="/images/sns_pairplot_matriz.png" width=533 height=533>
 <img src="/images/dispersão de resíduos.png" width=398 height=262>
 
- ### Tableau
- Visualização de dados usando Tableau
+
+### Tableau
+Visualização de dados usando Tableau
  <img src="/images/Impact of Holidays on Seoul Bike Rentals in 2018.png" width=999 height=799>
  <img src="/images/Seoul Average Bike Rentals per Hour on Weekdays in 2018.png" width=999 height=482>
  
