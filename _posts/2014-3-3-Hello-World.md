@@ -4,7 +4,7 @@ title: Portfólio
 ---
 ### Caso Waze: desenvolvimento e avaliação dos modelos Random Forest e XGBoost
 O objetivo deste projeto é construir um modelo de ML para prever se um usuário do aplicativo Waze será retido ou desligado e encontrar os fatores que impulsionam a rotatividade de usuários. O projeto completo está [aqui](https://github.com/olesyagalkina/portfolio/blob/main/Projeto_Waze.ipynb).
-<img src="/images/precision-recall curve.png" width=516 height=666> <img src="/images/confusion matrix.png" width=516 height=666>
+<img src="/images/precision-recall curve.png" width=567 height=453> <img src="/images/confusion matrix.png" width=565 height=432>
 
 ### K-means 
 O objetivo desse projeto é mostrar como funciona o algoritmo k-means. Inicialmente, iremos gerar o conjunto de dados a partir da foto da minha gatinha, uma adorável SRD tricolor. Depois, aplicaremos o algoritmo k-means para agrupar os pixels da imagem com base em suas codificações de cor. Ao final, analisaremos como diferentes valores de k afetam o agrupamento de píxels, e, portanto, a aparência da foto. O projeto completo está [aqui](https://github.com/olesyagalkina/portfolio/blob/main/K-means%20usando%20a%20foto%20da%20gatinha.ipynb). O gráfico em 3d é interativo, clique na imagem para girá-la ou aumentá-la.
