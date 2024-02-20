@@ -24,3 +24,5 @@ Análise de dados • Ciência de dados • Estatística e Probabilidade • Pyt
 ### Entre em contato comigo: 
 
 [ole.galkina@gmail.com](mailto:ole.galkina@gmail.com)
+
+<img src="/images/google-advanced-data-analytics-certificate.png" width=260 height=260>
