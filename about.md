@@ -14,9 +14,6 @@ Sou Russa e escolhi o Brasil como minha morada há mais de 10 anos e construí a
 
 [Lista](https://arxiv.org/search/?searchtype=author&query=Galkina%2C+O) das minha publicações científicas.
 
-A pronúncia corréta do meu nome está [aqui](https://www.youtube.com/watch?v=YZNYaHznsxs).
-
-
 ### Principais competências:
 
 Análise de dados • Ciência de dados • Estatística e Probabilidade • Python • SQL 
