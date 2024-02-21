@@ -1,9 +1,9 @@
 ---
-layout: page
+layout: default
 title: Portfólio 
 ---
-### Caso Waze: desenvolvimento e avaliação dos modelos Random Forest e XGBoost
-O objetivo deste projeto é construir um modelo de ML para prever se um usuário do aplicativo Waze será retido ou desligado e encontrar os fatores que impulsionam a rotatividade de usuários. O projeto completo está [aqui](https://github.com/olesyagalkina/portfolio/blob/main/Projeto_Waze.ipynb).
+### Churn prediction: usando IA para diminuir a evasão de clientes
+O objetivo do projeto é desenvolver e avaliar um modelo de ML para prever a evasão de usuários do aplicativo Waze e encontrar os fatores que impulsionam a rotatividade de usuários. Os modelos escolhidos para implementação do projeto: Random Forest e XGBoost. O projeto completo está [aqui](https://github.com/olesyagalkina/portfolio/blob/main/Waze_Churn_Prediction_Model.ipynb).
 <img src="/images/precision-recall curve.png" width=567 height=453> <img src="/images/confusion matrix.png" width=565 height=432>
 
 ### K-means 
