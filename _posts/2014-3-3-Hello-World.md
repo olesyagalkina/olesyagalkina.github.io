@@ -4,6 +4,8 @@ title: Portfólio
 ---
 ### Churn prediction: usando IA para diminuir a evasão de clientes
 O objetivo do projeto é desenvolver e avaliar um modelo de ML para prever a evasão de usuários do aplicativo Waze e encontrar os fatores que impulsionam a rotatividade de usuários. Os modelos escolhidos para implementação do projeto: Random Forest e XGBoost. O projeto completo está [aqui](https://github.com/olesyagalkina/portfolio/blob/main/Waze_churn_prediction_model_IA.ipynb).
+
+
 <img src="/images/precision-recall curve.png" width=567 height=453> <img src="/images/confusion matrix.png" width=565 height=432>
 
 ### K-means 
