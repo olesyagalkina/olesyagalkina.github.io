@@ -6,7 +6,7 @@ title: Portfólio
 Neste projeto, estaremos desenvolvendo e avaliando um modelo de regressão logística binomial com o propósito de antecipar a rotatividade de usuários do aplicativo Waze, utilizando diversas variáveis como base para a previsão. O projeto completo está [aqui](https://github.com/olesyagalkina/portfolio/blob/main/analise_regressao_waze.ipynb).
 
 
-<img src="/images/Heatmap.png" width=923 height=710> 
+<img src="/images/Heatmap.png" width=823 height=620> 
 
 
 ### Churn prediction: usando IA para diminuir a evasão de clientes
