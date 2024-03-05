@@ -2,6 +2,13 @@
 layout: default
 title: Portfólio 
 ---
+### Churn prediction: usando Regressão Logística para diminuir a evasão de clientes
+Neste projeto, estaremos desenvolvendo e avaliando um modelo de regressão logística binomial com o propósito de antecipar a rotatividade de usuários do aplicativo Waze, utilizando diversas variáveis como base para a previsão. O projeto completo está [aqui](https://github.com/olesyagalkina/portfolio/blob/main/analise_regressao_waze.ipynb).
+
+
+<img src="/images/Heatmap.png" width=923 height=710> 
+
+
 ### Churn prediction: usando IA para diminuir a evasão de clientes
 O objetivo do projeto é desenvolver e avaliar um modelo de ML para prever a evasão de usuários do aplicativo Waze e encontrar os fatores que impulsionam a rotatividade de usuários. Os modelos escolhidos para implementação do projeto: Random Forest e XGBoost. O projeto completo está [aqui](https://github.com/olesyagalkina/portfolio/blob/main/Waze_churn_prediction_ML.ipynb).
 
