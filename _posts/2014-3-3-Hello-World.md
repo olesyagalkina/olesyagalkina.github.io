@@ -3,7 +3,7 @@ layout: default
 title: Portfólio 
 ---
 ### Churn prediction: usando Regressão Logística para diminuir a evasão de clientes
-Neste projeto, estaremos desenvolvendo e avaliando um modelo de regressão logística binomial com o propósito de antecipar a rotatividade de usuários do aplicativo Waze, utilizando diversas variáveis como base para a previsão. O projeto completo está [aqui](https://github.com/olesyagalkina/portfolio/blob/main/analise_regressao_waze_v4.ipynb).
+Neste projeto, estaremos desenvolvendo e avaliando um modelo de regressão logística binomial com o propósito de antecipar a rotatividade de usuários do aplicativo Waze, utilizando diversas variáveis como base para a previsão. O projeto completo está [aqui](https://github.com/olesyagalkina/portfolio/blob/main/analise_regressao_waze_v4.ipynb), com sumário executivo [aqui](https://github.com/olesyagalkina/portfolio/blob/main/Sumario%20Executivo.pdf).
 
 
 <img src="/images/Heatmap.png" width=823 height=620> 
